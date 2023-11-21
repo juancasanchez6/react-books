@@ -34,7 +34,7 @@ const BookList = () => {
             <h4>{book.title}</h4>
           </div>
           <div>
-            <img src={book.image_url} alt="#" onClick={() => navigate(`/books/${book.id}`)} />
+            <img src={book.image_url} alt="#" onClick={() => navigate(`/book/${book.id}`)} />
           </div>
           <div>
             {favouritesChecker(book.id) ? (
