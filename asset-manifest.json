@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-books/static/css/main.e2278608.css",
+    "main.js": "/react-books/static/js/main.5e5dfa74.js",
+    "static/js/787.30f3ef37.chunk.js": "/react-books/static/js/787.30f3ef37.chunk.js",
+    "index.html": "/react-books/index.html",
+    "main.e2278608.css.map": "/react-books/static/css/main.e2278608.css.map",
+    "main.5e5dfa74.js.map": "/react-books/static/js/main.5e5dfa74.js.map",
+    "787.30f3ef37.chunk.js.map": "/react-books/static/js/787.30f3ef37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2278608.css",
+    "static/js/main.5e5dfa74.js"
+  ]
+}
